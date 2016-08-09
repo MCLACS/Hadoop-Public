@@ -1,0 +1,4 @@
+1->[ice, bird, seat, weekend, candy, tree, car, very]
+2->[cat, red, food, floor, tired]
+4->[dog, apple, eat]
+7->[log, jump]
