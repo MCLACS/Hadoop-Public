@@ -1,6 +1,6 @@
 <project name="BooksWithHadoop" basedir="." default="main">
 
-    <property name="hadoop.dir"  value="/home/mclacsdev/Development/hadoop-2.7.2/share/hadoop"/>
+    <property name="hadoop.dir"  value="/home/ubuntu/workspace/hadoop-2.7.2/share/hadoop"/>
     <property name="main-class"  value="BookExample"/>
 
     <property name="src.dir"     value="src"/>
