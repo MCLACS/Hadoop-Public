@@ -4,6 +4,7 @@
 # echo "a b c d e" | ./mapper.py
 # echo "a b c d e" | ./mapper.py | sort -k1
 # echo "a b c d e" | ./mapper.py | sort -k1 | ./reducer.py
+# cat data/4300-0.txt  | ./mapper.py | sort -k1 | ./reducer.py
 
 import sys
 
